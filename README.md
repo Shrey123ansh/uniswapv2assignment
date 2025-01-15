@@ -1,0 +1,6 @@
+factory contract deployed at: 0x869336291fdc09513f8cA766f38898e81ff2c629
+WETH contract deployed at: 0x680735804589A9B2ba25DbA674fCfC4079eb7360
+router contract deployed at: 0x4004E78Bb11ac024d46ebC670a6979115CA81538
+PracticeERC20 contract deployed at: 0xCB023DD7A667664da98890bf605e06710D682BA8
+PracticeERC202 contract deployed at: 0x099E0b7c7aa2474a36EB3cba8614AdFf5A98d691
+PracticeERC203 contract deployed at: 0x693d051dBd60c3EF6dDcB0122B3f885c1604a8Bf
